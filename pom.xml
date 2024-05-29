@@ -42,5 +42,7 @@
         <!-- HINT: Add modules here when adding new services -->
         <module>application</module>
         <module>gateway</module>
+        <module>estimating-service</module>
+        <module>knowledgebase-service</module>
     </modules>
 </project>
